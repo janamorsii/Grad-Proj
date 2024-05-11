@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642080662687",
+    "project_id": "travelista-d4d48",
+    "storage_bucket": "travelista-d4d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642080662687:android:3fb7e670f87a6f96a4aeaa",
+        "android_client_info": {
+          "package_name": "com.example.travelista_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkZy5D56DuqWQs2MRmQkHOgI28tSAcpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
